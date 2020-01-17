@@ -1,0 +1,438 @@
+.hiddenvariable {
+	display: none;
+}
+
+.issue-room-header {
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+#issue-room-front-page {
+	border-style: solid;
+	width: 500px;
+	margin: auto;
+	height: 300px;
+	margin-top: 20px;
+	border-width: 1px;
+}
+
+.manual-entry1 {
+	margin-right: 20px;
+}
+.manual-entry2 {
+	margin-right: 120px;
+}
+
+.front-button {
+	float: right;
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 15px !important;
+	margin-top: 20px;
+}
+#clear-pink-flag {
+	float: left;
+	margin-left: 53px;
+	font-weight: bold;
+	font-size: 15px !important;
+	margin-top: 20px;
+}
+
+#check-user-in {
+	float: left;
+	margin-left: 100px;
+	font-weight: bold;
+	font-size: 15px !important;
+	margin-top: 20px;
+}
+
+#user-id-input {
+	height: 35px;
+}
+
+.show-input-field {
+	width: 320px;
+	font-size: 30px !important;
+	font-weight: bold
+}
+
+#scanid_notice {
+	margin: auto;
+	width: 350px;
+	padding-top: 30px;
+	height: 100px;
+}
+
+#advance_search {
+	width: 150px;
+	margin: auto;
+	margin-top: 50px;
+	background-color: red;
+	height: 20px;
+}
+
+#person-data {
+	width: 490px;
+	height: 800px;
+	float: left;
+	overflow: hidden;
+}
+
+#person-info {
+	width: 490px;
+	height: 280px;;
+	float: left;
+}
+
+#person-pic {
+	width: 230px;
+	float: left;
+}
+
+#person-name-classes {
+	float: right;
+	width: 245px;
+}
+
+#person-data1 {
+	width: 830px;
+	/*height: 500px;*/
+	float: left;
+	overflow: hidden;
+}
+
+#person-info1 {
+	width: 830px;
+	/*height: 480px;*/
+	float: left;
+}
+
+#person-pic1 {
+	width: 260px;
+	margin-bottom: 1.5em;
+	margin-left: 100px;
+	float: left;
+}
+
+#person-name-classes1 {
+	float: right;
+	width: 370px;
+}
+
+#person-items {
+	width: 470px;
+	overflow: hidden;
+}
+
+#person-checkout-items {
+	border-style: solid;
+	border-width: 2px;
+	float: left;
+	overflow: hidden;
+	width: 450px;
+	height: 400px;
+	padding: 7px;
+}
+
+#person-onhand-items {
+	border-style: solid;
+	border-width: 2px;
+	float: left;
+	overflow: hidden;
+	width: 230px;
+	height: 250px;
+	padding: 7px;
+}
+
+.peron-checkout-list {
+	float: right;
+	margin-top: 10px;
+	padding: 2px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+#item-options {
+	float: right;
+	width: 560px;
+	line-height: 180%;
+}
+
+
+#item-on-hand {
+
+}
+
+#item-on-hand p {
+	padding: 2px;
+}
+
+.icon-delete {
+	float: right;
+}
+
+.item-checked-out {
+	font-size: 12px;
+	font-family: century;
+	background-color: #E0E0E0;
+	margin: 2px;
+}
+
+.item-size-float {
+
+}
+
+
+
+#close-check-out-window {
+
+}
+
+#rented-items-close {
+
+}
+
+.gym-close-button {
+	float: right;
+	margin-top: 40px;
+	padding: 5px;
+	margin-right: 20px;
+	font-weight: bold;
+	clear: both;
+}
+
+.item-options-category {
+
+}
+
+.item-label {
+	float: left;
+	clear: both;
+	width: 100px;
+	height: 20px;
+	background-color: red;
+	padding: 20px 0px;
+}
+
+.size-buttons {
+	padding: 2px 10px;
+	float: left;
+	font-weight: bold !important;
+	font-size: 25px !important;
+	margin-top: 8px;
+}
+
+.radio-button {
+
+}
+
+.exs-access {
+
+}
+
+.athlete-access {
+
+}
+
+.equipment-access {
+
+}
+
+.item-type {
+
+}
+
+.item-name {
+
+}
+
+.item-attribute {
+
+}
+
+.item-attribute-label {
+	padding: 0px;
+	font-weight: bolder !important;
+	font-size: 14px !important;
+}
+
+#item-checkout-list{
+	width: 355px;
+	float: left;
+}
+
+.delete-when-click {
+	
+}
+	
+#item-count{
+	float: right;
+	width: 80px;
+	padding: 5px;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+
+.checkout-totals{
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+}
+
+#total-on-hand {
+	color: #993333;
+}
+
+.float-left {
+}
+
+.float-right {
+	float: right;
+	margin-right: 20px;
+}
+
+.checkout-text {
+	font-family: century;
+	font-size: 15px;
+}
+
+.new-item {
+	color: red;
+	font-style: italic;
+}
+
+.equipment-class {
+	width: 165px;
+	float: left;
+}
+
+/* rented items report */
+
+#rent-list {
+	font-size: 16px;
+	text-align: left;
+}
+
+.rent-list-id {
+	width: 100px;
+}
+.rent-list-name {
+	width: 280px;
+}
+.rent-list-item {
+	width: 200px;
+}
+.rent-list-date {
+	width: 100px;
+}
+.rent-list-time {
+	width: 150px;
+}
+.rent-list-comment {
+	width: 300px;
+}
+
+#tabs-container ul li a{
+	width: 133px;
+}
+
+.item-options-category .ui-state-active {
+	border: 1px solid #E0DEBF;
+	background: #9E1B34;
+	color: #FBF2E6;
+}
+
+#tabs-container .ui-tabs-nav {
+	font-size: 11px!important;
+}
+
+#tabs-container .ui-tabs-nav .ui-state-active {
+	background: #E0DEBF;
+}
+
+#choose-site { clear: both; }
+
+#issue-room {
+	width: 150px;
+	padding: 1.5em;
+	float: left;
+	margin-left: 50px;
+	margin-top: 2em;
+}
+#fitness-center {
+	width: 200px;
+	padding: 1.5em;
+	float: right;
+	margin-top: 2em;
+}
+
+#choose-issue, #choose-fitness {
+	margin-top: 3em;
+}
+
+#choose1, #choose2 {margin-left: 1.5em;}
+
+#pre-page {
+	margin-top: .4em;
+	margin-bottom: .4em;
+	float: left;
+}
+#next-page {
+	margin-top: .4em;
+	margin-bottom: .4em;
+	margin-right: 670px;
+	float: right;
+}
+
+#page {
+	margin-top: 1em;
+	margin-left: 123px;
+}
+#user-visit {
+	clear: both;
+}
+
+#user-comment {
+	clear: left;
+	margin-top: 1.5em;
+}
+
+#comment-table {
+	width: 430px;
+}
+
+#comment-row {
+	width: 310px;
+	}
+#comment-table tr td {
+	border: thin black solid;
+}
+
+
+#visitList-table tr td {
+	border: thin black solid;
+}
+.comment-button-td {
+	border: none;
+}
+.visitTime {
+	text-align: right;
+}
+
+#regulations {
+	font-size: 17px;
+	margin: 2.5em 2.5em 1.5em .5em;	
+}
+.reg-words {color: #c91212;}
+
+#inventory-table{
+	margin:auto;
+	border: solid thin gray;
+	border-collapse:collapse;
+}
+#inventory-table tr td {
+	border: solid thin gray;
+	padding-left: 2em;
+	padding-right: 2em;
+}

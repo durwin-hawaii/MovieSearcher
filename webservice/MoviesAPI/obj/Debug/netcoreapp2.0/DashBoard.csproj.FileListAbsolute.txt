@@ -1,0 +1,11 @@
+d:\projects\c#\DashBoard\DashBoard\bin\Debug\netcoreapp2.0\DashBoard.deps.json
+d:\projects\c#\DashBoard\DashBoard\bin\Debug\netcoreapp2.0\DashBoard.runtimeconfig.json
+d:\projects\c#\DashBoard\DashBoard\bin\Debug\netcoreapp2.0\DashBoard.runtimeconfig.dev.json
+d:\projects\c#\DashBoard\DashBoard\bin\Debug\netcoreapp2.0\DashBoard.dll
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.csproj.CoreCompileInputs.cache
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.AssemblyInfoInputs.cache
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.AssemblyInfo.cs
+d:\projects\c#\DashBoard\DashBoard\bin\Debug\netcoreapp2.0\DashBoard.pdb
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.dll
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.pdb
+d:\projects\c#\DashBoard\DashBoard\obj\Debug\netcoreapp2.0\DashBoard.csprojAssemblyReference.cache

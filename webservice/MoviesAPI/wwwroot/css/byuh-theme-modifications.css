@@ -1,0 +1,11 @@
+/* width modifications */
+#byuh_container { width: 960px; }
+#byuh_container #center_box #box_content #box_content_block { width: 770px;	min-height: 300px; padding: 15px 20px; position: relative; }
+#byuh_container #center_box { background: url('http://www.byuh.edu/images/shadowAlpha_content_drupal.png') repeat-y; }
+#byuh_container #center_box #box_content { width: 930px; }
+#header_fv #persistentnav ul li.tab .menu { width: 880px; }
+.content_width { width: 930px; }
+
+h1, h2, p, form { border:0px; margin:0px; padding:0px; }
+h2 { color:#993333; margin-bottom:20px; font-size:16px; }
+

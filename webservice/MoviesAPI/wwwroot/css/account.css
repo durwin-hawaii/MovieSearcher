@@ -1,0 +1,116 @@
+.profile {
+}
+
+.profile td {
+    padding: 5px;
+}
+
+.header-menu-main {
+    display: none;
+}
+
+#birthMonth,
+#birthDay {
+    width: auto;
+    display: inline;
+}
+
+#check-wrapper {
+    margin-top: 10px;
+}
+
+#search-form div {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#user-list-header,
+#person-type-sel {
+    display: none;
+}
+
+#user-list {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.list-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid #eee;
+}
+
+.list-item>div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.list-item:before,
+.list-item:after {
+    display: table;
+    content: " ";
+}
+
+.list-item:after {
+    clear: both;
+}
+
+.token-control {
+    border-top: 2px solid #dedede;
+    padding: 15px 0px 10px 0px;
+    margin-top: 15px;
+}
+
+.token-control ul {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.token-control .table {
+    margin-bottom: 10px;
+}
+
+.emp-field,
+.stu-field {
+    display: none;
+}
+
+@media (min-width: 480px) {
+    #search-form .form-control {
+        display: inline-block;
+    }
+
+    #search-form .form-control {
+        width: auto;
+    }
+
+    #search-form label {
+        width: 110px;
+    }
+}
+
+@media (min-width: 760px) {
+    #search-form div {
+        display: inline-block;
+        margin-left: 10px;
+    }
+
+    #user-list-header {
+        display: block;
+    }
+
+    #user-list {
+        margin-top: 0px;
+    }
+
+    .list-item>div {
+        float: left;
+    }
+
+    .list-emplid,
+    .list-name,
+    .list-username,
+    .list-email {
+        width: 25%;
+    }
+}

@@ -1,0 +1,18 @@
+#birthMonth,
+#birthDay,
+#birthYear {
+    width: auto;
+    display: inline;
+}
+
+.eligible {
+    color: #3c763d;
+}
+
+.ineligible {
+    color: #a94442;
+}
+
+.invisible {
+    display: none;
+}

@@ -1,0 +1,10 @@
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.deps.json
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.runtimeconfig.json
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.runtimeconfig.dev.json
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.dll
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.pdb
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.AssemblyInfo.cs
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.dll
+C:\Users\durwin.AD\source\repos\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.pdb

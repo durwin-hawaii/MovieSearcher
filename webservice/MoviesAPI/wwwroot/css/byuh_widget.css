@@ -1,0 +1,93 @@
+.byuh_widget {
+	margin-bottom: 20px;
+}
+
+.byuh_widget form, .byuh_widget > .ui-widget-content {
+	padding:0.5em 1em;	
+}
+
+.byuh_widget label{
+	
+}
+
+.byuh_widget em {
+	color: red;
+	margin-left: 10px;
+}
+.byuh_widget fieldset {
+	border: 0 none;
+	margin-top:15px;
+	padding:0;
+}
+
+.byuh_widget fieldset legend {
+	font-weight: bold;
+	font-size: 1.4em;
+	padding: 0;
+	width: 100%;
+	background: #eee;
+	margin-bottom: 5px; 
+}
+
+.byuh_widget input, .byuh_widget select, .byuh_widget textarea {
+	margin-bottom: 12px; 
+}
+
+.byuh_widget select {
+	width: 95%;
+	font-size:11px;
+	padding:0.2em;
+}
+
+.byuh_widget textarea {
+	width: 95%;
+	height: 100px;
+}
+.byuh_widget input {
+	padding: 0.2em;
+}
+
+.byuh_widget .validate_tips {
+	border: 1px solid transparent;
+	padding: 0.3em;
+	font-size: 12px;
+}
+
+.byuh_widget_titlebar {
+	padding:0.5em 1em 0.3em;
+}
+
+.byuh_widget_title{
+	float:left;
+	margin:0.1em 16px 0.2em 0;	
+	
+}
+
+.byuh_widget .form_errors {
+	display: none;
+	padding: 0.3em;
+	margin-bottom: 1em;
+}
+
+
+.byuh_widget .form_errors span	{
+	display: block;
+}
+
+.byuh_widget .form_notification {
+	display: none;
+	margin-bottom: 10px;
+	padding: 0.4px;
+}
+
+.byuh_widget #form_notification_top {
+	display: block;
+}
+
+.float_container {
+	height: auto;	
+	overflow: hidden;
+}
+
+
+

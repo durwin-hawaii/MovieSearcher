@@ -10,3 +10,5 @@ run.bat runs the docker container, currently listening on port 2438, you can cha
 
 Note: if running on linux chmod 777 build.bat and run.bat so it will be executable
 
+You could open this project up in VisualStudio. When you run it VS will automatically open a browser to localhost:2438
+
